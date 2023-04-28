@@ -208,8 +208,8 @@
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
     padding: 20px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
     margin: 20px;
     border-width: 1px 1px 2px 2px;
@@ -242,12 +242,12 @@
     background: #fdca3c;
     color: #2B2222;
     display: inline-flex;
-    padding-left: 40px;
+    padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 260px;
     margin-left: 10px;
-    margin-top: 40px;
+    margin-top: 60px;
     clip-path: polygon(95% 15%,82% 53%,96% 95%,4% 95%,4% 15%);
   }
 
