@@ -172,7 +172,7 @@
       z-index: 2;
     }
   
-  .learnMore {
+  .button {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
     background-color: #DE1B40;
@@ -187,7 +187,7 @@
     box-shadow: rgb(0, 0, 0) 8px 8px;
   }
   
-  .learnMore:hover {
+  .button:hover {
     font-weight: 600;
     box-shadow: rgb(0, 0, 0) 0px 0px;
     border: black solid 2px;
@@ -229,7 +229,7 @@
 
   .skillTitle {
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
   }
   
   .skillImage {
@@ -318,7 +318,7 @@
   .bottomNav {
     float: left;
     font-family: 'Quicksand', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 600;
     list-style-type:none;
   }
@@ -335,25 +335,27 @@
   
   h1 {
     font-family: 'Quicksand', sans-serif;
+    font-size: 28px;
   }
   
   h2 {
     font-family: 'Quicksand', sans-serif;
+    font-size: 26px;
   }
   
   h3 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
+    font-size: 22px;
   }
   
   h4 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
   }
   
   p {
     font-family: 'Quicksand', sans-serif;
-    font-size: 14px;
+    font-size: 18px;
   }
   
   @media only screen and (max-width: 700px) {
