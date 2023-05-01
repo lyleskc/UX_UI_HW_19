@@ -318,7 +318,7 @@
   .bottomNav {
     float: left;
     font-family: 'Quicksand', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     list-style-type:none;
   }
@@ -335,12 +335,13 @@
   
   h1 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 28px;
+    font-size: 26px;
   }
+
   
   h2 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 26px;
+    font-size: 24px;
   }
   
   h3 {
@@ -355,7 +356,7 @@
   
   p {
     font-family: 'Quicksand', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
   }
   
   @media only screen and (max-width: 700px) {
